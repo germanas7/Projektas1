@@ -1,0 +1,68 @@
+.card{
+    background-color: #3a75bd;
+    height: 800px;
+    width: 700px;
+    text-align: center;  
+    padding: 30px;
+}
+.card1 
+{background-color: aqua;
+height: 500px;
+width: 600px;
+margin: 20px;
+padding-left: 30px;
+padding-top: 20px;
+padding-right: 30px;
+padding-bottom: 50px;
+/* text-align: center; */
+
+}
+.card2
+{background-color: white;
+height: 200px;
+width: 600px;
+text-align: center;
+}
+.header {
+    height: 70px;
+    background-color: rgb(197, 195, 231);
+      margin-top: 30px; 
+      margin-left: 10px;
+     margin-right: 10px;
+     text-align: right;
+   
+    }
+.letters {
+    width: 100px;
+    height: 100px;
+ 
+    background-color: crimson;
+    color: white;
+    display: inline-block;
+    position: relative;
+    z-index: 2;
+    font-size: 50px;
+    text-align: center;
+} 
+.letters1 {font-size: 40px;
+margin-top: 30px;}
+.letters2 {
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    color: white;
+    display: inline-block;
+    position: relative;
+    font-size: 50px;}
+.chapter {font-size: 40px;
+    color: green;
+    text-align: left;}
+.letters3 {font-size: 70px;
+    color: green;
+    text-align: left;}
+.remelis  {border: 3px solid aquamarine;
+width: 100px;
+height: 10px;
+margin: 10px;
+padding: 10px;
+text-align: left;}
